@@ -1,0 +1,13 @@
+{
+  "name": "Diptendu",
+  "age": 28,
+  "gender": "male",
+  "heightCm": 175,
+  "weightKg": 78,
+  "goal": "fat_loss",
+  "workoutFrequencyPerWeek": 4,
+  "activityLevel": 3,
+  "sleepHoursPerNight": 5.8,
+  "dietPreference": "omnivore"
+}
+

@@ -1,0 +1,62 @@
+[
+{
+  "directory": "D:/Embedded_Projects/FitMind/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FitMindAI.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles\\FitMindAI.dir\\src\\main.cpp.obj -c D:\\Embedded_Projects\\FitMind\\src\\main.cpp",
+  "file": "D:/Embedded_Projects/FitMind/src/main.cpp",
+  "output": "CMakeFiles/FitMindAI.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Embedded_Projects/FitMind/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FitMindAI.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles\\FitMindAI.dir\\src\\models\\UserProfile.cpp.obj -c D:\\Embedded_Projects\\FitMind\\src\\models\\UserProfile.cpp",
+  "file": "D:/Embedded_Projects/FitMind/src/models/UserProfile.cpp",
+  "output": "CMakeFiles/FitMindAI.dir/src/models/UserProfile.cpp.obj"
+},
+{
+  "directory": "D:/Embedded_Projects/FitMind/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FitMindAI.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles\\FitMindAI.dir\\src\\services\\FitnessCalculator.cpp.obj -c D:\\Embedded_Projects\\FitMind\\src\\services\\FitnessCalculator.cpp",
+  "file": "D:/Embedded_Projects/FitMind/src/services/FitnessCalculator.cpp",
+  "output": "CMakeFiles/FitMindAI.dir/src/services/FitnessCalculator.cpp.obj"
+},
+{
+  "directory": "D:/Embedded_Projects/FitMind/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FitMindAI.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles\\FitMindAI.dir\\src\\services\\RecommendationEngine.cpp.obj -c D:\\Embedded_Projects\\FitMind\\src\\services\\RecommendationEngine.cpp",
+  "file": "D:/Embedded_Projects/FitMind/src/services/RecommendationEngine.cpp",
+  "output": "CMakeFiles/FitMindAI.dir/src/services/RecommendationEngine.cpp.obj"
+},
+{
+  "directory": "D:/Embedded_Projects/FitMind/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FitMindAI.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles\\FitMindAI.dir\\src\\services\\ProgressTracker.cpp.obj -c D:\\Embedded_Projects\\FitMind\\src\\services\\ProgressTracker.cpp",
+  "file": "D:/Embedded_Projects/FitMind/src/services/ProgressTracker.cpp",
+  "output": "CMakeFiles/FitMindAI.dir/src/services/ProgressTracker.cpp.obj"
+},
+{
+  "directory": "D:/Embedded_Projects/FitMind/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FitMindAI.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles\\FitMindAI.dir\\src\\services\\FileManager.cpp.obj -c D:\\Embedded_Projects\\FitMind\\src\\services\\FileManager.cpp",
+  "file": "D:/Embedded_Projects/FitMind/src/services/FileManager.cpp",
+  "output": "CMakeFiles/FitMindAI.dir/src/services/FileManager.cpp.obj"
+},
+{
+  "directory": "D:/Embedded_Projects/FitMind/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FitMindAI.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles\\FitMindAI.dir\\src\\services\\MenuSystem.cpp.obj -c D:\\Embedded_Projects\\FitMind\\src\\services\\MenuSystem.cpp",
+  "file": "D:/Embedded_Projects/FitMind/src/services/MenuSystem.cpp",
+  "output": "CMakeFiles/FitMindAI.dir/src/services/MenuSystem.cpp.obj"
+},
+{
+  "directory": "D:/Embedded_Projects/FitMind/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FitMindAI.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles\\FitMindAI.dir\\src\\utils\\InputUtils.cpp.obj -c D:\\Embedded_Projects\\FitMind\\src\\utils\\InputUtils.cpp",
+  "file": "D:/Embedded_Projects/FitMind/src/utils/InputUtils.cpp",
+  "output": "CMakeFiles/FitMindAI.dir/src/utils/InputUtils.cpp.obj"
+},
+{
+  "directory": "D:/Embedded_Projects/FitMind/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FitMindAI.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles\\FitMindAI.dir\\src\\utils\\StringUtils.cpp.obj -c D:\\Embedded_Projects\\FitMind\\src\\utils\\StringUtils.cpp",
+  "file": "D:/Embedded_Projects/FitMind/src/utils/StringUtils.cpp",
+  "output": "CMakeFiles/FitMindAI.dir/src/utils/StringUtils.cpp.obj"
+},
+{
+  "directory": "D:/Embedded_Projects/FitMind/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/FitMindAI.dir/includes_CXX.rsp -g -std=c++20 -Wall -Wextra -Wpedantic -Wshadow -Wconversion -Wsign-conversion -o CMakeFiles\\FitMindAI.dir\\src\\utils\\JsonUtils.cpp.obj -c D:\\Embedded_Projects\\FitMind\\src\\utils\\JsonUtils.cpp",
+  "file": "D:/Embedded_Projects/FitMind/src/utils/JsonUtils.cpp",
+  "output": "CMakeFiles/FitMindAI.dir/src/utils/JsonUtils.cpp.obj"
+}
+]

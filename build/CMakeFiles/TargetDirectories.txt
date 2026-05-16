@@ -1,0 +1,3 @@
+D:/Embedded_Projects/FitMind/build/CMakeFiles/FitMindAI.dir
+D:/Embedded_Projects/FitMind/build/CMakeFiles/edit_cache.dir
+D:/Embedded_Projects/FitMind/build/CMakeFiles/rebuild_cache.dir
